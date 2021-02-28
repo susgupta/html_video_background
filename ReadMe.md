@@ -15,4 +15,4 @@ The application was publised using [GitHub Pages](https://pages.github.com/). Th
 
 Here is link to play the game:
 
-[Sushil G HTML Video Landing Page Example](https://susgupta.github.io/html_video_background/)
+[Sushil G HTML Video Landing Page Example](https://susgupta.github.io/html_video_background/index.html)
